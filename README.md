@@ -1,6 +1,6 @@
 # LITRevu
 
-Application web Django de critiques de livres et d'articles.
+Application Django de critiques littéraires, avec demandes d’avis, abonnements entre lecteurs et flux personnalisé.
 
 LITRevu permet a une communaute de lecteurs de publier des critiques, demander un avis sur une lecture et suivre d'autres utilisateurs pour construire un flux personnalise.
 
